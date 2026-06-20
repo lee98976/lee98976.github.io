@@ -1,0 +1,15 @@
+.header{
+    background-color: lightgreen;
+}
+
+li {
+    color: white;
+    width: 10px;
+    list-style-type: none;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+}
